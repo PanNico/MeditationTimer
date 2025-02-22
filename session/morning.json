@@ -1,0 +1,51 @@
+{
+  "music_directory" : "./music",
+  "music_player" : "vlc --intf dummy --play-and-exit",
+  "session" : [
+     {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "sun salutation",
+      "duration": "0:5:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:1:30",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:10",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "kama dahana asana",
+      "duration": "0:10:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:3:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:30",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "maha yogi pranayama",
+      "duration": "0:5:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:1:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:40",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "laya yoga",
+      "duration": "0:40:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    }
+  ]
+} 
+
+

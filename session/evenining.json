@@ -1,0 +1,148 @@
+{
+  "music_directory" : "./music",
+  "music_player" : "vlc --intf dummy --play-and-exit",
+  "session" : [
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "padahastasana",
+      "duration": "0:3:30",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "arda matiendrasana sx",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:1:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "arda matiendrasana dx",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "yoni asana",
+      "duration": "0:3:30",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "udihanabandha",
+      "duration": "0:7:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:3:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:40",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "supta vajrasana",
+      "duration": "0:2:30",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:30",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "bujangasana",
+      "duration": "0:3:30",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:3:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:30",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "dandasana",
+      "duration": "0:1:10",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "halasana",
+      "duration": "0:3:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "shirsasana",
+      "duration": "0:3:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:2:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:20",
+      "start_play": "zen-gong-199844.mp3",
+      "activity": "maha yogi pranayama",
+      "duration": "0:5:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "activity": "vijnana asana",
+      "duration": "0:1:0",
+      "end_play": "zen-tone-deep-202555.mp3"
+    },
+    {
+      "pause_before_start" : "0:0:30",
+      "start_play": "relaxation.mp3",
+      "activity": "relaxation",
+      "duration": "0:0:5",
+      "end_play": "zen-tone-deep-202555.mp3"
+    }
+
+  ]
+} 
+
+
